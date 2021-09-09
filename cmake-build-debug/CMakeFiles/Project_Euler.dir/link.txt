@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Project_Euler.dir/helpful.cpp.o CMakeFiles/Project_Euler.dir/main.cpp.o CMakeFiles/Project_Euler.dir/problems41_75.cpp.o -o Project_Euler 

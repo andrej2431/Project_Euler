@@ -1,0 +1,3 @@
+/home/andrej/CLionProjects/Project_Euler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrej/CLionProjects/Project_Euler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrej/CLionProjects/Project_Euler/cmake-build-debug/CMakeFiles/Project_Euler.dir

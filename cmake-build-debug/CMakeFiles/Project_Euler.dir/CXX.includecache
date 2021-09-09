@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrej/CLionProjects/Project_Euler/main_header.h
+vector
+-
+string
+-
+algorithm
+-
+iostream
+-
+fstream
+-
+sstream
+-
+set
+-
+
+/home/andrej/CLionProjects/Project_Euler/problems41_75.cpp
+main_header.h
+/home/andrej/CLionProjects/Project_Euler/main_header.h
+
